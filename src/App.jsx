@@ -32,13 +32,11 @@ function App() {
   return (
     <ThemeProvider theme={original}>
       <GlobalStyles />
-        <nav className="topnav">
-        <ul>
+        <div className="topnav">
           <li>Home</li>
           <li>Enrique's Page</li>
           <li>Victoria's Page</li>
-        </ul>
-        </nav>
+        </div>
       
 
     </ThemeProvider>
