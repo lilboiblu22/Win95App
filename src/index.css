@@ -1,0 +1,25 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+
+  background-image: url("assets/clouds.png");
+  background-size: cover;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+
+
+
+
